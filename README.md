@@ -3,4 +3,4 @@
 </p> </p>
 <p align="center"> art by o͟p͟h͟e͟l͟o͟t͟u͟s͟ on tt . <a href="https://youtu.be/CNzhqZu3DIs?si=NmEVXFz3RHbUo7m1">its all yours.</a> 
 </p> </p>
-<p align="center"> <img width="75" src="https://komarev.com/ghpvc/?username=pupfies&label=tnts&color=blue">
+<p align="center"> <img width="50" src="https://komarev.com/ghpvc/?username=pupfies&label=tnts&color=blue">
