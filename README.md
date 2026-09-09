@@ -1,3 +1,5 @@
+<div align="center">
+
 <img width="736" height="414" alt="1000051871" src="https://github.com/user-attachments/assets/d69f4fa2-80ca-4af0-b4e8-91323d4623ef" />
 
 </p>
@@ -10,4 +12,4 @@
 
 </p>
 
-<p align="center"> will prob rmk this soon
+will prob rmk this soon
