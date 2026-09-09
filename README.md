@@ -4,7 +4,7 @@
 
 </p>
 
-<p align="center"> art by o͟p͟h͟e͟l͟o͟t͟u͟s͟ on tt . <a href="https://youtu.be/CNzhqZu3DIs?si=NmEVXFz3RHbUo7m1">its all yours.</a> 
+<p align="center"> art by o͟p͟h͟e͟l͟o͟t͟u͟s͟ on tt .
 
 </p>
 
