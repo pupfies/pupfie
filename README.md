@@ -8,7 +8,7 @@
 
 </p>
 
-<p align="center"> <img width="50" src="https://komarev.com/ghpvc/?username=pupfies&label=tnts&color=blue">
+![Github Views](https://views.igorkowalczyk.dev/api/badge/pupfies?label=wifiesner&labelColor=ffffff&color=895ca4) 
 
 </p>
 
