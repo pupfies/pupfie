@@ -4,7 +4,7 @@
 
 </p>
 
-<p align="center"> art by o͟p͟h͟e͟l͟o͟t͟u͟s͟ on tt .
+art by o͟p͟h͟e͟l͟o͟t͟u͟s͟ on tt .
 
 </p>
 
@@ -12,4 +12,5 @@
 
 </p>
 
-editing
+<img width="500" height="150" alt="1000067830" src="https://github.com/user-attachments/assets/809c3b41-de25-4c10-bad8-1b2d11039691" />
+I think im gonna die in this HOUSE...
