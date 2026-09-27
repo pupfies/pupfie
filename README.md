@@ -17,4 +17,4 @@ I think im gonna die in this HOUSE...
 
 </p>
 
-[@casinotown](https://github.com/casinotown) [@PT-FANtastic-Hall](https://github.com/PT-FANtastic-Hall)
+[@casinotown](https://github.com/casinotown) [@PT-FANtastic-Hall](https://github.com/PT-FANtastic-Hall) [@choco-town](https://github.com/choco-town)
